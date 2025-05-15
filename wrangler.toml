@@ -1,0 +1,8 @@
+name = "cf-workers-sub"
+main = "_worker.js"
+compatibility_date = "2023-01-01"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "local-kv"
+preview_id = "local-kv"
